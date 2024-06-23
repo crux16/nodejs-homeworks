@@ -1,33 +1,29 @@
 ## GoIT Node.js block Homework05 with Avatars
 
-## POST: /api/users/signup at Postman
-<img width="640" alt="hw05-POST-signup" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/75621c5e-103f-41fc-8fdd-c2bb0ec161cc">
+## POST: /api/users/signup at Postman SIGNUP-request
 
-## MongoDB - signup
-<img width="640" alt="hw05-mongoDB-signup" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/2ec1d53e-6d5b-4e94-b163-5161446d96e9">
+<img width="640" alt="hw05-POST-signup" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/1d22d973-09e9-4bb2-89b8-a8a92d82cde3">
+
 
 ## POST: api/users/login at Postman
-<img width="640" alt="Postman-POST-login" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/c4c676cc-41ff-40a9-ae54-284749c934d7">
+<img width="640" alt="Postman-POST-login" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/bf3e1a73-c2eb-4192-8792-baebe3441e3a">
+
+
 
 ## GET - browser avatarURL link
-<img width="640" alt="gravatar-path-link" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/999fe405-ccf3-4838-aa89-e20a123c8d11">
+<img width="640" alt="gravatar-path-link" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/e6e35393-cdcc-4dde-b2ad-dc3ff905320c">
+
 
 ## PATCH: api/users/avatars at Postman (and under Body option I switched Text to File to allow upload of image file ) 
-<img width="640" alt="Postman-PATCH-request-hw5" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/c2bc97cf-304c-4514-8cef-0e88c52accda">
-<img width="1082" alt="PATCH-body-file" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/f16978e3-17b7-4f8d-9f8e-0983a94e5b18">
-
-
-## MongoDB updated avatarURL link
-<img width="640" alt="mongoDB-updated-gravatar" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/e6532b08-16eb-40c8-9cc5-162f283f4c36">
+<img width="1082" alt="PATCH-body-file" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/64110c13-4308-4661-bf23-de26b3943aea">
 
 ## GET - browser updated avatarURL link
-<img width="1118" alt="updated-gravatar-link" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/bcede733-9a19-4669-a4fd-07900f243485">
+<img width="1118" alt="updated-gravatar-link" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/890a62cc-9042-47cc-8b2a-39f78cd02e4d">
 
 ## VS code server terminal
+
 <img width="640" alt="VScode-server-hw05" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/4a3efb29-a296-41ad-878c-1c9fe8146a1e">
 
-## VS code unit test console using Jest
-<img width="640" alt="unit-test-terminalhw5" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/9c011882-92c3-41db-8012-b1e061065a46">
 
 
 ## Explanation Recording to handle homeworks in the Node.js Block
