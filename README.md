@@ -12,12 +12,8 @@
 <img width="1021" alt="hw06-Postman-POST-verify-resend-email" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/696b3ab7-6985-4aff-a583-156afc980ef9">
 
 
-## email action required inbox
-<img width="1440" alt="hw06-email-verification-link-newuser" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/0509b7dc-371c-4b8d-8472-13d34e11710e">
-
-
 ## email verification link
-<img width="640" alt="hw06-email-link" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/3521aac9-6ca2-405d-a443-f9dfe538da56">
+<img width="1440" alt="hw06-email-verification-link-newuser" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/0509b7dc-371c-4b8d-8472-13d34e11710e">
 
 
 ## GET - browser verification successful
