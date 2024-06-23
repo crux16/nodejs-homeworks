@@ -1,4 +1,4 @@
-## GoIT Node.js block Homework04 with Authentication
+## GoIT Node.js block Homework05 with Email
 
 
 ## POSTMAN/ POST: signup
