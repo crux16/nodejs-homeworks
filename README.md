@@ -1,18 +1,19 @@
 ## GoIT Node.js block Homework04 with Authentication
 
+
 ## POSTMAN/ POST: signup
-<img width="640" alt="hw06-Postman-POST-:signup" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/11fe9434-f9b6-4f3d-86d5-5cc9bbfdb4d4">
+<img width="640" alt="hw06-Postman-POST-:signup" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/f7a51569-a3e6-486e-bf31-f8c1ee01d3aa">
 
 ## Postman - POST: login
-<img width="1021" alt="hw06-Postman-POST-login" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/75492d67-31ef-408c-8cca-ee672473bbad">
+<img width="1021" alt="hw06-Postman-POST-login" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/32a1f5f1-ce38-4abd-a707-bfbeaece9ae0">
 
 
 ## Postman - resend email
-<img width="1021" alt="hw06-Postman-POST-verify-resend-email" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/bbf8b2b8-6648-4563-8d89-ec8b2c395f3e">
+<img width="1021" alt="hw06-Postman-POST-verify-resend-email" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/696b3ab7-6985-4aff-a583-156afc980ef9">
 
 
 ## email action required inbox
-<img width="1440" alt="hw06-email-verification-link-newuser" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/3024329c-f208-4734-b2d0-b272a117308f">
+<img width="1440" alt="hw06-email-verification-link-newuser" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/0509b7dc-371c-4b8d-8472-13d34e11710e">
 
 
 ## email verification link
@@ -20,52 +21,24 @@
 
 
 ## GET - browser verification successful
-<img width="1440" alt="hw-06-GET-new-user-verified" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/2ae77966-149b-4dc6-b6a8-1c9f622920e4">
+<img width="1440" alt="hw-06-GET-new-user-verified" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/eaf315af-f0b3-4481-a128-c7f51d4908d4">
 
 
 ## GET: /verify/:verificationToken
-<img width="1120" alt="hw06-GET-request-browser" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/9ebee488-346e-4585-bfaa-1b2e9b2bd13d">
-
-
-## Postman - GET: /verify
-<img width="1211" alt="hw06-GET-verify" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/286f59f4-63bd-4d77-b2f2-ed38cb27436c">
-
-
-## MongoDB email verified 
-<img width="640" alt="hw06-mongoDB-email-verified" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/ae94625c-9766-47c1-97cf-6b947df61285">
-
+<img width="1120" alt="hw06-GET-request-browser" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/a34921e0-bca8-4b95-98ea-d6a553079524">
 
 ## VS code terminal
-<img width="802" alt="hw06-vscode-terminal" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/8ad11363-1f16-4c1f-bc02-078afc2da077">
+<img width="802" alt="hw06-vscode-terminal" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/fe58e759-c8bc-4767-9e12-e2a0e4c6e2a8">
 
 
 # Docker
 ## Docker image run VS code terminal
-<img width="640" alt="hw06-vs-code-terminal-docker" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/8c79e872-f297-41c2-9a25-89c21853ae58">
+<img width="640" alt="hw06-vs-code-terminal-docker" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/d4b8223c-e078-4f7a-8a63-32346ba1ad49">
 
 
 ## Postman - POST: signup after docker image run
-<img width="640" alt="hw06-Postman-POST-signup-after-docker" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/782bd2f3-5395-45c1-b425-c05e56d091ca">
+<img width="640" alt="hw06-Postman-POST-signup-after-docker" src="https://github.com/crux16/nodejs-homeworks/assets/30309887/caa1bb38-2bb0-4156-86bc-d2d40c8c8cd8">
 
-
-## MongoDB signup after docker image run
-<img width="640" alt="hw06-mongodb-after-docker" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/3ac404ba-030c-4051-8133-04cbcc0f3186">
-
-
-## Docker container 
-<img width="640" alt="hw06-Docker-container" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/a357add2-1eec-4329-ae1c-0ea77d4854c8">
-
-
-## image push to Dockerhub 
-<img width="640" alt="hw06-docker-desktop-push-to-dockerhub" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/e34a1e55-3c0e-4357-961a-56bcc378c5d2">
-
-
-## Dockerhub
-<img width="640" alt="hw06-dockerhub" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/e610a48e-d92d-4290-8832-2aec1072ca4f">
-
-
-## docker /app dir
-<img width="640" alt="hw06-docker-:app-dir" src="https://github.com/Mayotopia04/nodejs-homeworks/assets/134679840/c6b71a85-b02d-4b5c-bd03-3a4c36609e0a">
 
 
 
